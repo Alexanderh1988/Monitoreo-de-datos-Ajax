@@ -21,6 +21,7 @@ Se tienen funciones para borrar, resetear y grabar los valores bajo variables. L
 
 Listo¡
 
+https://github.com/Alexanderh1988/Monitoreo-de-datos-Ajax/blob/main/Grafico%20sonido.png?raw=true
 
 Dudas o consultas: 
 info@hstech.cl
